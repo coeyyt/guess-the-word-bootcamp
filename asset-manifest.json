@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/high-card-bootcamp/static/css/main.cf43e1ae.css",
-    "main.js": "/high-card-bootcamp/static/js/main.f2572df1.js",
-    "index.html": "/high-card-bootcamp/index.html",
-    "main.cf43e1ae.css.map": "/high-card-bootcamp/static/css/main.cf43e1ae.css.map",
-    "main.f2572df1.js.map": "/high-card-bootcamp/static/js/main.f2572df1.js.map"
+    "main.css": "/guess-the-word-bootcamp/static/css/main.cf43e1ae.css",
+    "main.js": "/guess-the-word-bootcamp/static/js/main.f2572df1.js",
+    "index.html": "/guess-the-word-bootcamp/index.html",
+    "main.cf43e1ae.css.map": "/guess-the-word-bootcamp/static/css/main.cf43e1ae.css.map",
+    "main.f2572df1.js.map": "/guess-the-word-bootcamp/static/js/main.f2572df1.js.map"
   },
   "entrypoints": [
     "static/css/main.cf43e1ae.css",
